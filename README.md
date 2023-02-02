@@ -22,4 +22,5 @@ The raw data contains 32 columns and 119390 rows.
 
 The Dataset info.
 
-![image](https://user-images.githubusercontent.com/124130717/216244122-11222ff3-6980-4b12-9022-eec861648046.png)
+![image](https://user-images.githubusercontent.com/124130717/216248243-16b56386-fbe7-4ae7-a74c-a02412b18f47.png)
+
